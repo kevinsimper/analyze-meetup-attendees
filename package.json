@@ -1,0 +1,25 @@
+{
+  "name": "analyze-meetup-attendees",
+  "version": "1.0.0",
+  "description": "Analyze meetup.com attendees and see who is going with you",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.12.2",
+    "cheerio": "^0.18.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kevinsimper/analyze-meetup-attendees.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kevinsimper/analyze-meetup-attendees/issues"
+  },
+  "homepage": "https://github.com/kevinsimper/analyze-meetup-attendees"
+}
