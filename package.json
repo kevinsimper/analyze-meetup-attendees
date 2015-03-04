@@ -4,8 +4,9 @@
   "description": "Analyze meetup.com attendees and see who is going with you",
   "main": "server.js",
   "dependencies": {
+    "cheerio": "^0.18.0",
     "express": "^4.12.2",
-    "cheerio": "^0.18.0"
+    "request": "^2.53.0"
   },
   "devDependencies": {},
   "scripts": {
